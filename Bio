@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <Title> Student Bio </title>
+  </head>
+  <body>
+    <h1> James Forbes </h1>
+    <img src="test.jpg">
+    <p> This is a test paragraph containing some bio stuff I guess </p>
+    <h2> Contact Info </h2>
+    <ul>
+      <li><b>Email:</b> <a href="beauforbes@gmail.com">beauforbes@gmail.com</a> </li>
+      <li><b>Github:</b> <a href="https://github.com/Beaubasaur">Beaubasaur</a></li>
+      <li><b>Portfoli:</b> Coming Soon </li>
+    </ul>
+  </body>
+</html>
